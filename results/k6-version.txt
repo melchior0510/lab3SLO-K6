@@ -1,0 +1,2 @@
+]633;E;k6 version;5d4d0aa8-5fb3-4cde-ad7e-395db20e0ea9]633;Ck6 v2.2.0 (commit/00a9a1b7f5, go1.26.5, linux/amd64)
+node v22.22.1
